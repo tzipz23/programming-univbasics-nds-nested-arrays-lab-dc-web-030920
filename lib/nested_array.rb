@@ -32,6 +32,7 @@ ORGANIC_PRODUCE = [
   "Grapes",
   "Avocadoes",
   "Asparagus"
+  ]
 ]
     
   
