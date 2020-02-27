@@ -20,7 +20,7 @@ def assembled_matrix
   
   assembled_matrix = [
   CONVENTIONAL_PRODUCE => [
-  "Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]
+  "Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"],
   ORGANIC_PRODUCE => [
   "Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
 ]
