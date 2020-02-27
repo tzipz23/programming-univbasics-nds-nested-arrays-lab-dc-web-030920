@@ -62,8 +62,7 @@ end
 
 def matrix_update(matrix, row, column, new_value)
   
-  matrix_update(assembled_matrix[0][2]) = "Lemons"
-  matrix_update
+  
  
  
   # Given any matrix (array of arrays), a row index and a column index, 
