@@ -37,7 +37,7 @@ def sorted_matrix
   ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
 ]
  
-  sorted_matrix.sort = CONVENTIONAL_PRODUCE.sort, 
+  sorted_matrix = CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort
   sorted_matrix
   
   # Using Array literal syntax only, build another nested array that 
