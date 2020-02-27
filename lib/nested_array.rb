@@ -26,7 +26,7 @@ def assembled_matrix
   "Watermelon",
   "Eggplant"
 ],
-ORGANIC_PRODUCE = [
+  ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
   "Grapes",
