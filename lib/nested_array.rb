@@ -47,7 +47,10 @@ end
 
 def matrix_lookup(matrix, row, column)
  
-  
+   assembled_matrix = [
+   ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"],
+   ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
+   
    matrix[row][column] 
     
   # Given any matrix (array of arrays), a row index and a column index, 
