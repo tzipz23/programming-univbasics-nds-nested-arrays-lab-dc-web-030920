@@ -51,7 +51,7 @@ def matrix_lookup(matrix, row, column)
   row = [1]
   column = [1]
   
-  # matrix_lookup(assembled_matrix[1][1])  
+   matrix_lookup(assembled_matrix[1][1])  
   # matrix_lookup(sorted_matrix[1][1])
   
     
