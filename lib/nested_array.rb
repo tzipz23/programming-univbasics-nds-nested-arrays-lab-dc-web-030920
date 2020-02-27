@@ -46,8 +46,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  matrix_lookup(assembled_matrix)
-  matrix_lookup(sorted_matrix)
+  matrix_lookup(matrix[0][0])
   matrix_lookup(assembled_matrix[1][1])  
   matrix_lookup(sorted_matrix[1][1])
   
