@@ -37,7 +37,8 @@ def sorted_matrix
   ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
 ]
  
-  sorted_matrix.sort
+  ORGANIC_PRODUCE.sort
+  
   
   sorted_matrix
   
