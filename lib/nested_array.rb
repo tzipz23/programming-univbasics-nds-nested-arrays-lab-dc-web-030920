@@ -33,20 +33,10 @@ end
 def sorted_matrix
   
   sorted_matrix = [
-    [
-  "Strawberries",
-  "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"
+  ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"],
+  ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
 ]
-[
-  "Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"
-]
+ 
   sorted_matrix.sort
   
   # Using Array literal syntax only, build another nested array that 
