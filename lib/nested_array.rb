@@ -37,7 +37,7 @@ def sorted_matrix
   ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
 ]
  
-  sorted_matrix.sort
+  array.sort
   
   sorted_matrix
   
